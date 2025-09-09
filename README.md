@@ -7,6 +7,12 @@
 
 ---
 
+## 📊 Dashboard Preview
+<p align="center">
+  <img src="ATTRITION DASHBOARD.png" alt="Attrition Dashboard" width="800" height="450">
+</p>
+
+
 ## 📌 Overview
 
 This project involves an **Exploratory Data Analysis (EDA)** of an HR dataset to understand the drivers of **employee attrition**. The dataset includes demographic, job-related, compensation, and performance factors.  
