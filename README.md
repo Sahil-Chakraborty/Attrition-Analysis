@@ -9,7 +9,7 @@
 
 ## 📊 Dashboard Preview
 <p align="center">
-  <img src="ATTRITION DASHBOARD.png" alt="Attrition Dashboard" width="800" height="450">
+  <img src="dashboard.png" alt="Attrition Dashboard" width="800" height="450">
 </p>
 
 
